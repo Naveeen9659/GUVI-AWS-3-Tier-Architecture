@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+env/
+venv/
+__pycache__/
+*.pyc
+*.pem
+*.key
+app.py.backup
+app.py.save
+app.py.save
